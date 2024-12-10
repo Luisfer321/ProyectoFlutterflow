@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264070569329",
+    "project_id": "proyecto-martes-definitivo",
+    "storage_bucket": "proyecto-martes-definitivo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264070569329:android:68f07e00f245cffe6e2ad0",
+        "android_client_info": {
+          "package_name": "com.mycompany.proyectomartesdefinitivo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Yb4CB7DDKXxWrG7pMN5UOUKPGNE-TGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
