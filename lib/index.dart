@@ -26,3 +26,4 @@ export '/pages/transporte/transporte_widget.dart' show TransporteWidget;
 export '/pages/comments/comments_widget.dart' show CommentsWidget;
 export '/pages/crear_cuenta/crear_cuenta_widget.dart' show CrearCuentaWidget;
 export '/pages/login_cuenta/login_cuenta_widget.dart' show LoginCuentaWidget;
+export '/pages/mapa1/mapa1_widget.dart' show Mapa1Widget;
